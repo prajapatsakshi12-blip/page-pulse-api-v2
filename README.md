@@ -6,6 +6,7 @@ Page Pulse is a production-ready URL audit API that checks website availability,
 * **GitHub Repository:** https://github.com
 * **Live Deployed Link:** https://onrender.com
 
+
 ### API Contract
 * **GET /** - Welcome message and health check.
 * **POST /api/audit** - Audit a specific URL.
